@@ -1,1 +1,1 @@
-# GYST.github.io
+GYST (Get your stuff together)
